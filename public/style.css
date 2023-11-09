@@ -1,0 +1,24 @@
+.body {
+  justify-content: center;
+}
+
+.d1 {
+  justify-content: center;
+  position: absolute;
+}
+
+.d2 {
+  padding-left: 800px;
+  position: absolute;
+}
+
+.p1 {
+  font-size: 100px;
+  text-align: center;
+}
+
+.p2 {
+  margin-top: -60px;
+  text-align: center;
+  font-size: 50px;
+}
